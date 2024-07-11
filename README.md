@@ -16,7 +16,7 @@
       tambah semangat lagi ibadahnya,tambah rajin lagi
       belajarnya,tambah patuh kepada orang tua,tambah
       sayang ke adek dan tambah sayang ke akuu😙 
-      wish you all the best ayy🤲 i love you🫶🫶</h4>
+      wish you all the best ayy🤲 i love you🫶</h4>
         <img src="foto1.jpg" alt="Foto Ulang Tahun 1">
         <button onclick="nextLayer()">Klik ayy</button>
     </div>
